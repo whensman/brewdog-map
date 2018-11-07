@@ -1,2 +1,2 @@
-# brewdog-map2
-map of brewdog locations Version 2
+# brewdog-map
+map of brewdog locations
